@@ -144,6 +144,12 @@ REST stands for **REpresentational State Transfer**. We will demonstrate these p
 |:----|
 | Familiarize ourselves with the initial setup of a new application with the intent of making a *planes* application |
 
+#### Install-fest
+
+* `$ gem install rails`
+* `$ gem install bundler` to manage ruby packages called "gems"
+
+#### Create Rails app
 
 * `$ rails new route_app`
 * `$ cd route_app`
